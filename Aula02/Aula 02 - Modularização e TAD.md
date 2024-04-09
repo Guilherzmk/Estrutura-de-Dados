@@ -23,18 +23,18 @@ Exemplo de “TAD”: um ponto definido por suas coordenadas “x” e “y”.
 - tipos de ponteiro
 - dados globalmente acessível
 
-![Untitled](Aula%2002%20-%20Modularizac%CC%A7a%CC%83o%20e%20TAD%20/Untitled.png)
+![Passo 1](Untitled.png)
 
 2º Passo: definir o arquivo “.C”
 
 - implementar as funções do protótipo
 
-![Untitled](Aula%2002%20-%20Modularizac%CC%A7a%CC%83o%20e%20TAD%20/Untitled%201.png)
+![Passo 2](Untitled%201.png)
 
 3º Passo: teste das implementações usando a main.c:
 
-![Untitled](Aula%2002%20-%20Modularizac%CC%A7a%CC%83o%20e%20TAD%20/Untitled%202.png)
+![Passo 3](Untitled%202.png)
 
 Resultado Final:
 
-![Untitled](Aula%2002%20-%20Modularizac%CC%A7a%CC%83o%20e%20TAD%20/Untitled%203.png)
+![Passo 4](Untitled%203.png)
